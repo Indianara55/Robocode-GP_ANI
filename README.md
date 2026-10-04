@@ -1,6 +1,6 @@
 # Robocode - Projeto GP_ANI
 
-Repositório estruturado para a disciplina de Introdução à Programação (1ª Fase - Eng. Telecom).
+Repositório estruturado para a disciplina de Projeto à Integrador (1ª Fase - Eng. Telecom).
 
 ## 🤖 Versões do Projeto
 
