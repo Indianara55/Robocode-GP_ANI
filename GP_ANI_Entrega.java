@@ -3,7 +3,7 @@ package gp_ant_nic_ind;
 import robocode.*;
 import java.awt.Color;
 
-public class GP_ANI_Fase1 extends Robot { 
+public class GP_ANI_Entrega extends Robot { 
 
     public void run() {
         setBodyColor(Color.DARK_GRAY);
