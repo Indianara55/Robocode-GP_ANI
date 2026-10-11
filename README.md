@@ -9,7 +9,7 @@ Repositório estruturado para a disciplina de Projeto Integrador (1ª Fase - Eng
 - **Foco:** Uso prático de laços de repetição (`while`), condicionais (`if/else`) e operadores matemáticos (`%`).
 - **Estratégia:** Movimentação contínua pelas bordas com varredura mecânica estática (Canhão Fixo).
 
-### 2. GP_ANI.java (Nível Padrão Ouro - Robô Avançado)
+### 2. GP_ANI.java (Nível - Robô Avançado)
 - **Arquitetura:** Assíncrona e Orientada a Eventos (Classe `AdvancedRobot`).
 - **Foco:** Execução de threads paralelas, trigonometria espacial e predição vetorial.
 - **Estratégia:** Movimentação orbital com radar independente e frenagem preditiva nas bordas da arena.
